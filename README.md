@@ -1,6 +1,6 @@
 # Anime Alıntı
 
-## Anime karakterlerinin etkileyici ve akılda kalıcı sözleri için anime alıntısı uygulaması
+## Anime karakterlerinin etkileyici ve akılda kalıcı sözlerini görmek için anime alıntısı uygulaması
 
 *Anime quote app for impressive and catchy sayings of anime characters*
 
